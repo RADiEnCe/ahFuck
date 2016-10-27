@@ -1,0 +1,2 @@
+# ahFuck
+Voice-triggered TheFuck
